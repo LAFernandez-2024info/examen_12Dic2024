@@ -11,4 +11,4 @@
    https://docs.google.com/spreadsheets/d/1hgAc9b4VB5iJ3ZQZOLtzV_Wflj7p1HkgCy5OXu27rqI/edit?gid=679899069#gid=679899069
    
    ### Se adjunta las ventas en tecnología de empresa utilizando Plan
-   [[Ventas Anuales Tecnológicas](https://docs.google.com/spreadsheets/d/1hgAc9b4VB5iJ3ZQZOLtzV_Wflj7p1HkgCy5OXu27rqI/edit?gid=679899069#gid=679899069]
+(https://docs.google.com/spreadsheets/d/1hgAc9b4VB5iJ3ZQZOLtzV_Wflj7p1HkgCy5OXu27rqI/edit?gid=679899069#gid=679899069]
